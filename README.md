@@ -14,7 +14,8 @@ This project is a Sudoku solver implemented using basic HTML, CSS, and JavaScrip
 
 ## Installation and Usage
 To use the Sudoku solver:
-Open [Sudoko Solver](https://suresh-kanth.github.io/Sudoku-Solver/){target="_blank"} in your web browser.
+Open [OpenAI](https://www.openai.com/){:target="_blank"}
+in your web browser.
 
 ## How to Play
 1. Enter the numbers into the grid. Use `0` or leave blank for empty cells.
